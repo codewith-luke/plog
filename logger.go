@@ -1,4 +1,4 @@
-package disclone_logger
+package plog
 
 import (
 	"context"
